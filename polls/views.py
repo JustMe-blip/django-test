@@ -12,3 +12,6 @@ def liuren(request):
 def chenyun(request):
 	return HttpResponse("Hello, I am chenyun.")
 
+def gaoyuan(request):
+	return HttpResponse("Hello, I am gaoyuan.")
+
