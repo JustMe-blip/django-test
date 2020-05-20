@@ -9,3 +9,6 @@ def index(request):
 def liuren(request):
 	return HttpResponse("Hello, I am liuren.")
 
+def chenyun(request):
+	return HttpResponse("Hello, I am chenyun.")
+
